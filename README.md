@@ -2,7 +2,7 @@
 - 👀 I’m interested in remote working
 - 🌱 I’m currently learning Java and PHP
 - 💞️ I’m looking to collaborate on Junior Developer coding projects
-- 📫 How to reach me nathukraft@gmail.com
+- 📫 How to reach me: nathukraft@gmail.com
 - 😄 Pronouns: she
 - ⚡ Fun fact: I love pinneaple on pizza
 
