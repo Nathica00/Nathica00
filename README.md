@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Nathica00
 - 👀 I’m interested in remote working
 - 🌱 I’m currently learning Java and PHP
-- 💞️ I’m looking to collaborate on Junior developer coding projects
+- 💞️ I’m looking to collaborate on Junior Developer coding projects
 - 📫 How to reach me nathukraft@gmail.com
 - 😄 Pronouns: she
-- ⚡ Fun fact: I love pinneaple on the pizza
+- ⚡ Fun fact: I love pinneaple on pizza
 
 <!---
 Nathica00/Nathica00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
